@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xParth" alt="0xParth" /> </p>
 - 👋 Hi, I’m @0xParth
 - 👀 I’m interested in Cybersecurity, Penetration Testing, Bug Bounty Hunting
 - 🌱 I’m currently upgrading my knowledge on different exploits

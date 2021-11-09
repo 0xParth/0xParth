@@ -1,10 +1,16 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xParth" alt="0xParth" /> </p>
-- 👋 Hi, I’m @0xParth
-- 👀 I’m interested in Cybersecurity, Penetration Testing, Bug Bounty Hunting
-- 🌱 I’m currently upgrading my knowledge on different exploits
-- 📫 Reach me on www.parthshu.com or https://www.instagram.com/0xParth/
+# Hello there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=theunited36" alt="theunited36" /> </p>
 
-<!---
-0xParth/0xParth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a **💻 Security Analyst, 🏹 Bug Bounty Hunter, 🐱‍👤 Community Leader and 📷 YouTuber**.
+- 📫 Reach me out to me on twitter and Instagram.Links are mentioned below.
+- 👦 I write some blogs on www.parthshu.com.
+- 💥 You can reach my community on www.instagram.com/bug_xs
+
+
+<p align="center">
+<a href= "https://www.instagram.com/0xParth/"><img src="https://img.icons8.com/material-outlined/30/000000/instagram.png"/></a>
+<a href= "https://www.linkedin.com/in/parthshu18/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
+<a href= "https://twitter.com/0xParth"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
+<a href= "https://www.partshu.com"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
+</p>
+

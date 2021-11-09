@@ -2,8 +2,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theunited36" alt="theunited36" /> </p>
 
 I am a **💻 Security Analyst, 🏹 Bug Bounty Hunter, 🐱‍👤 Community Leader and 📷 YouTuber**.
-- 📫 Reach me out to me on twitter and Instagram.Links are mentioned below.
+- 👋 Hi, I’m @0xParth
 - 👦 I write some blogs on www.parthshu.com.
+- 👀 I’m interested in Cybersecurity, Penetration Testing, Bug Bounty Hunting
+- 🌱 I’m currently upgrading my knowledge on different exploits
+- 📫 How to reach me on www.parthshu.com or https://www.instagram.com/0xParth/
 - 💥 You can reach my community on www.instagram.com/bug_xs
 
 

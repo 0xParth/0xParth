@@ -17,10 +17,10 @@ I am a **💻 Security Analyst, 🏹 Bug Bounty Hunter, 🐱‍👤 Community Le
 ![](https://github-profile-trophy.vercel.app/?username=SAPT01&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=SAPT01)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=0xParth)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SAPT01&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=0xParth&icon=0&color=1)](https://visitcount.itsvg.in)

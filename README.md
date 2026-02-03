@@ -38,21 +38,6 @@ I enjoy sharing research on adversarial attacks and MCP security at global stage
 
 ---
 
-## 📊 GitHub Ecosystem
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xParth&show_icons=true&theme=radical&hide_border=true" width="48%" alt="0xParth's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xParth&layout=compact&theme=radical&hide_border=true" width="48%" alt="0xParth's Top Langs" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xParth&theme=radical&hide_border=true" width="100%" alt="GitHub Streak" />
-</div>
-
----
-
 ## 🌐 Let's Collaborate
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/parthshu18)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/0xparth)

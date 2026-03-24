@@ -1,56 +1,80 @@
-# 👋 Hello, I'm Parth Shukla (0xParth)
+# Parth Shukla — 0xParth
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=0xParth&color=blueviolet&style=flat-square" alt="0xParth" />
+  <img src="https://komarev.com/ghpvc/?username=0xParth&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
-💻 **AI Security Engineer** | 🏹 **Bug Bounty Hunter** | 🔥 **LLM Red Teamer** 🛡️ *Securing the next generation of Agentic AI and API ecosystems.*
+**Senior Security Research Engineer — AI Security @ Harness**  
+Building autonomous offensive security tooling at the intersection of AI agents and real-world infrastructure.  
+Creator of [Pinaka](https://pinaka.sh) · Speaker at 13+ international security conferences · AI Security Village Host @ BSides Luxembourg 2026
 
 ---
 
-## 🚀 The Mission
-I’m a Security Research Engineer focused on the **OWASP Top 10 for LLMs** and **Adversarial Machine Learning**. I don't just find vulnerabilities; I build the tools to automate the defense.
+## Research Focus
 
-### 🛠️ Featured Security Tooling
-* **🔍 [Cyfer](https://www.certsubs.com)**: A full-stack reconnaissance engine for subdomain and API surface mapping.
-* **🧠 Intent Sentinel**: An intelligent AI Firewall designed to classify and intercept malicious prompt injections via NLP threat modeling.
-* **🛡️ PromptGuard**: An automated analyzer for LLM system prompts, focusing on leakage and manipulation vulnerabilities.
-* **👾 LLM Red Team Ranger**: A specialized framework for simulating roleplay abuse and data exfiltration attacks on chatbots.
+- **Agentic AI Security** — attacking and defending AI agents with tool access in production environments
+- **LLM Red Teaming** — prompt injection, confused deputy attacks, excessive agency exploitation
+- **MCP Security** — Universal Socket MCP Server architecture, agentic attack surface mapping
+- **API Security** — OWASP API Top 10, attack surface management, automated exploit testing
 
 ---
 
-## 🎤 Speaking & Community
-I enjoy sharing research on adversarial attacks and MCP security at global stages:
-**BSides • OWASP • AI Dev World • InfoSec Nashville • ISACA GRC • CyberJutsuCon**
+## Notable Findings
 
-* 🎓 **Founder of BugXS**: Mentored 700+ students in Ethical Hacking & Bug Bounties.
-* 🏆 **2nd Place - Best Ethical Hacker**: TCS Global Competition.
-* 🌟 **Innovation Pride Award**: Recognized for security tooling at Tata Consultancy Services.
-
----
-
-## 🛠 Tech Stack
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Languages** | Python, JavaScript (React/Tailwind), Shell, C |
-| **Security** | Burp Suite, Postman, Shodan, LLM Fuzzing, Adversarial Attacks |
-| **Infra/Ops** | Docker, Linux, Jira, Git |
+| Target | Severity | Type |
+|--------|----------|------|
+| Emergent | Critical | Cloud infrastructure misconfiguration |
+| RedBull | Critical | Autonomous agent finding — PII leakage |
+| Porter | High | Sensitive data exposure |
 
 ---
 
-## 🌐 Let's Collaborate
+## Projects
+
+**[Pinaka](https://pinaka.sh)** — MCP-native autonomous penetration testing platform powered by Claude. Autonomous external recon agents, Shadow AI hunting, auto-bounty generation, Hunter dashboard. Has produced confirmed Critical findings against real-world production targets with zero human involvement.
+
+**[coraza-leet-normalize](https://github.com/Traceableai/coraza-leet-normalize)** — Open source transformation plugin for the Coraza WAF. Strips leet speak, Cyrillic/Greek homoglyphs, and zero-width Unicode characters before regex matching to catch WAF evasion attempts. Now officially listed on the Coraza plugins page.
+
+**Cyfer** — Full-stack subdomain discovery and API attack surface tool. Flask, React, MongoDB, Shodan integration with ML-based misconfiguration detection.
+
+**LLM Red Team Ranger** — Continuous LLM vulnerability testing via adversarial conversation simulation with severity classification and automatic halt on critical discovery.
+
+**PromptGuard** — LLM system prompt vulnerability scanner aligned to OWASP LLM Top 10.
+
+**Intent Sentinel** — LLM-aware AI firewall for chat interfaces using GPT-3.5 for intent classification and trust filtering.
+
+---
+
+## Speaking
+
+**AI Security Village Host** — BSides Luxembourg 2026 (May 6–8)  
+Curating a 2-day village with 12 sessions covering offensive AI, agentic risk, defensive tooling, and AI-as-a-Service security.
+
+**Featured Speaker at:**  
+AI Dev World · API World · HOUSE SEC CON · InfoSec Nashville · BSides Cayman Islands · BSides Seattle · BSides Luxembourg · BSides SLC · BSides Pittsburgh · OWASP BASC · ISACA GRC · CyberJutSuCon · DASH by Datadog
+
+---
+
+## Certifications
+
+- Certified AppSec Practitioner (CAP) — The SecOps Group
+- Certified AI/ML Pentester (C-AI/MLPEN) — The SecOps Group
+- MS in Cybersecurity — Northeastern University
+
+---
+
+## Community
+
+**Bug XS** (2019) — Founded and scaled a cybersecurity community. Trained 700+ students in web application security and bug bounty hunting across multiple colleges in Gujarat.
+
+**2nd Place** — TCS Global Best Ethical Hacker Competition  
+**Innovation Pride Award Q1** — Tata Consultancy Services
+
+---
+
+## Connect
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/parthshu18)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/0xparth)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@BUGXS)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@0xParth)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/0xparth)
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
-</p>
-
-<p align="right">
-  <img src="https://visitcount.itsvg.in/api?id=0xParth&icon=0&color=1" alt="Visitor Count" />
-</p>
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white)](https://twitter.com/0xparth)
+[![Website](https://img.shields.io/badge/Resume-0xparth.github.io-blue)](https://0xparth.github.io)
+[![Pinaka](https://img.shields.io/badge/Platform-pinaka.sh-blueviolet)](https://pinaka.sh)

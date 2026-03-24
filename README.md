@@ -1,9 +1,5 @@
 # Parth Shukla — 0xParth
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=0xParth&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
-
 **Senior Security Research Engineer — AI Security @ Harness**  
 Building autonomous offensive security tooling at the intersection of AI agents and real-world infrastructure.  
 Creator of [Pinaka](https://pinaka.sh) · Speaker at 13+ international security conferences · AI Security Village Host @ BSides Luxembourg 2026

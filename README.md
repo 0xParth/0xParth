@@ -72,5 +72,4 @@ AI Dev World · API World · HOUSE SEC CON · InfoSec Nashville · BSides Cayman
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/parthshu18)
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white)](https://twitter.com/0xparth)
-[![Website](https://img.shields.io/badge/Resume-0xparth.github.io-blue)](https://0xparth.github.io)
 [![Pinaka](https://img.shields.io/badge/Platform-pinaka.sh-blueviolet)](https://pinaka.sh)

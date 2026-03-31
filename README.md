@@ -1,6 +1,4 @@
 # Parth Shukla — 0xParth
-
-**Senior Security Research Engineer — AI Security @ Harness**  
 Building autonomous offensive security tooling at the intersection of AI agents and real-world infrastructure.  
 Creator of [Pinaka](https://pinaka.sh) · Speaker at 13+ international security conferences · AI Security Village Host @ BSides Luxembourg 2026
 
